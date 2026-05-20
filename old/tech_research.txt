@@ -1,0 +1,36 @@
+Project: Crypto Guesser
+Topic: Technology Stack Evaluation for
+Student: Ömer Azam Aslan
+Role: Developer
+Date: February 2026
+
+1. Introduction
+This week, I researched the best programming languages and frameworks for our project. My goal was to find a technology that is easy to learn, fast to develop, and works on different platforms.
+
+2. Options Compared
+Option 1: Python
+Pros: Very easy to read and write code. It has many libraries for data and backend.
+
+Cons: It is not the best choice for making high-performance mobile user interfaces.
+
+Option 2: Flutter (Dart)
+Pros: We can use one code for both Android and iOS. It is very fast for building beautiful UI.
+
+Cons: The app size is a little bit larger, and we need to learn the Dart language.
+
+Option 3: Java / Kotlin
+Pros: Standard for Android development. Very stable and high performance.
+
+Cons: It only works for Android. We would need to write separate code for iOS.
+
+3. Final Recommendation
+After my research, I recommend using Flutter. Since we want to reach more users and develop our project quickly, Flutter's cross-platform ability is the best advantage for our team.
+
+4. FINAL TEAM DECISION
+After our meeting, we discussed both options. Although I suggested Flutter for the interface benefits, the team decided to use PYTHON.
+
+Reason for selecting Python:
+- Most team members are already comfortable with Python.
+- Python allows us to develop the core logic and backend features much faster.
+- We decided that functional stability is more important than a mobile-first UI for our current goals.
+

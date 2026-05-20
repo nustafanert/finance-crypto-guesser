@@ -1,0 +1,24 @@
+Project: Crypto Guesser
+Topic: Technical Library Research
+Student: Ömer Azam Aslan
+Role: Developer
+Date: February 2026
+
+1. Introduction
+This week, I researched which Python libraries are best for our "Crypto Guesser" project. I checked if they are easy to use and if they work well together. 
+
+2. Library Analysis
+Requests Library:
+-Purpose: To get live cryptocurrency prices from the internet (APIs). 
+-Status: Very compatible. It is simple and perfect for our data needs. 
+
+Tkinter Library:
+-Purpose: To create the visual window and buttons for our game. 
+-Status: Compatible. It comes with Python, so we don't need to install extra tools. 
+
+Pandas Library:
+-Purpose: To save and show the player's high scores and game history. 
+-Status: Compatible. It is great for managing data in a list format. 
+
+3. Conclusion
+I recommend starting with Requests and Tkinter. These two libraries are enough to build our first version. They are easy for the team to learn quickly
